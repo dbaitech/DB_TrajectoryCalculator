@@ -18,6 +18,8 @@
 
 **Displays the trajectory graph**
 
+
 **Trajectory1.py** is written using procedural programming
+
 **Trajectory2.py** is written using object-oriented programming (OOP)
 
